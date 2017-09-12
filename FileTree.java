@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 /**
- * CS1027 - Assignment4 uwo email: fhasan7@uwo.ca uwo id : 250895618
+ * CS1027 - Assignment4
  * 
  * @author FatimaHasan This class represents a tree storing information of the
  *         file of objects in the computers file system
