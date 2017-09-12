@@ -2,7 +2,7 @@ import java.util.Comparator;
 import java.util.Iterator;
 
 /**
- * CS1027 - Assignment4 uwo email: fhasan7@uwo.ca uwo id: 250895618
+ * CS1027 - Assignment4 
  * 
  * @author FatimaHasan This class represents the nodes of the tree that will
  *         store the information about the file system. This class has 3
